@@ -25,7 +25,7 @@ Si deseas probar alguno de los programas localmente, asegúrate de tener instala
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/TU_USUARIO/ProgramandoEnCSharp.git
+   git clone https://github.com/jacobgtzmtz/ProgramandoEnCSharp.git
    ```
 2. Entra en la carpeta del ejercicio:
    ```bash
