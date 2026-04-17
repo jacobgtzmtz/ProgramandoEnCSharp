@@ -1,0 +1,26 @@
+## Objetos y carpetas de compilación
+[Bb]in/
+[Oo]bj/
+
+## Archivos generados por Visual Studio y VS Code
+.vs/
+.vscode/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+## Archivos de bases de datos
+*.db
+*.s3db
+*.sqlite
+
+## Archivos de log
+*.log
+
+## Paquetes NuGet
+*.nupkg
+node_modules/
+
+## Otros
+.DS_Store
