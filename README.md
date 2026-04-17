@@ -43,4 +43,4 @@ Si deseas probar alguno de los programas localmente, asegúrate de tener instala
 - [ ] Sección 2: Variables (En curso).
 
 ---
-*Desarrollado con ❤️ por Jacob Gtuiérrez*
+*Desarrollado con ❤️ por Jacob Gutiérrez*
