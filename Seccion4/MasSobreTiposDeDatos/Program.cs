@@ -11,6 +11,9 @@ casteos.ejercicio();
 /* Enums enums = new Enums();
 enums.ejercicio(); */
 
-Arrays arrays = new Arrays();
-arrays.ejercicio();
+/* Arrays arrays = new Arrays();
+arrays.ejercicio(); */
+
+ArraysMultidimension arraysMultidimension = new ArraysMultidimension();
+arraysMultidimension.ejercicio();
 
