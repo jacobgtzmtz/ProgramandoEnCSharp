@@ -34,7 +34,7 @@ public class Diccionario
             dicionario[llave].Add(i);
         }
 
-        //Imprimimos las dos llaves del diccionario con su respectiva lista de valores
+        //Imprimimos las dos llaves del diccionario con sus respectivas listas de valores
         foreach (var llave in dicionario)
         {
             Console.WriteLine(llave.Key);

@@ -20,9 +20,13 @@ estructuras.EliminarElemento(20);
 Console.WriteLine("------");
 estructuras.EliminarElementoPorPosicion(2); */
 
+/* 
 Diccionario dicionario = new Diccionario(); 
 dicionario.AgregarElementos();
 dicionario.ObtenerElementos();
-dicionario.ParImpar();
+dicionario.ParImpar(); */
+
+MyEnumerable enumerable = new MyEnumerable();
+enumerable.Ejercicio();
 
 
