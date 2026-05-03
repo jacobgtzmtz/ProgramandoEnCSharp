@@ -24,6 +24,16 @@ public class Filtro
 
         var personasMayoresDeEdad = personas.Where(p => p.edad >= 18);
         foreach (var p in personasMayoresDeEdad) Console.WriteLine($"Nombre: {p.nombre}, Edad: {p.edad}");
+
+        var primerPersona = personas.First();
+        var primerPersona2 = personas.FirstOrDefault();
+        Console.WriteLine($"Nombre: {primerPersona.nombre}, Edad: {primerPersona.edad}");
+        Console.WriteLine($"Nombre: {primerPersona2.nombre}, Edad: {primerPersona2.edad}");
+
+        // orderBy
+        Console.WriteLine("-----Ordenadas---");
+        var personasOrdenadas = personas.OrderBy(p => p.edad);
+        foreach (var p in personasOrdenadas) Console.WriteLine($"Nombre: {p.nombre}, Edad: {p.edad}");
     }
 
 
